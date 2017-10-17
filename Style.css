@@ -1,0 +1,80 @@
+body{
+  background-color:#a32929;
+  margin: 0 auto;
+}
+h1 {
+  color: #da3e3e;
+  font-size: 56px;
+  background-image: url("header.jpg");
+background-attachment: fixed;
+background-size: 1600px 1200px;
+  font-weight: 600;
+  text-align: center;
+ font-family: 'Ribeye Marrow', cursive;
+  
+}
+button{
+	background-color:#a32929;
+	margin: 0 auto;
+	width: 300px;
+    white-space: nowrap;
+font-family: 'Anton', sans-serif;
+	font-size:20px;
+	border-style: none;
+}
+ul{
+text-align:left;
+color:white;
+font-size:18px;
+font-family:'Balthazar', serif;
+padding:auto;
+margin:0;
+}
+li{
+text-align:left;
+color:white;
+font-size:18px;
+font-family:'Balthazar', serif;
+padding:auto;
+margin:0;
+}
+ol{
+text-align:left;
+color:white;
+font-size:18px;
+font-family:'Balthazar', serif;
+padding:auto;
+margin:0;
+}
+li.underline {
+    text-decoration: underline;
+	
+}
+h2{
+text-align:left;
+color:white;
+font-size:24px;
+font-family:'Crimson Text', serif;
+padding:0;
+}
+h3{
+text-align:left;
+color:white;
+font-size:24px;
+font-family: 'Pacifico', cursive;
+padding:0;
+}
+h4{
+text-align:left;
+color:white;
+font-size:24px;
+font-family:'Lobster Two', cursive ;
+padding:0;
+}
+p{
+text-align:center;
+color:white;
+font-size:20px;
+font-family: 'Cinzel', serif;
+padding:0;
+}
